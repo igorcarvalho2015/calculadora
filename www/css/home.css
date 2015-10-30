@@ -1,0 +1,46 @@
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 40px;
+	vertical-align: middle;
+}
+
+p {
+	text-align: center; 
+	color: #FFFFFF;
+	font-size: 12px;
+	vertical-align: middle;
+}
+
+num {
+display: block;
+width: 80px;
+height: 70px;
+background-color: #b2b2b2;
+font-size: 25px;
+vertical-align: middle;
+}
+
+form fieldset {
+text-align: center;
+margin: 10px auto 10px auto;
+width: 100%;
+height: 90%;
+border: solid black 1px;
+padding: 3%;
+margin-bottom: 10px;
+--background-color: #3C3C3C;
+--background:url(../img/fundo.jpg) no-repeat center top;
+}
+
+form input.num {
+display: block;
+text-align: center;
+background-color: #b2b2b2;
+margin-left:33%;
+width:100px;
+border-radius:50px;
+font-size:20px;
+line-height:100px;
+}
+
