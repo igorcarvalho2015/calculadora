@@ -1,7 +1,7 @@
 h1 {
 	text-align: center;
 	color: #FFFFFF;
-	font-size: 40px;
+	font-size: 50px;
 	vertical-align: middle;
 }
 
@@ -14,8 +14,8 @@ p {
 
 num {
 display: block;
-width: 80px;
-height: 70px;
+width: 100px;
+height: 90px;
 background-color: #b2b2b2;
 font-size: 25px;
 vertical-align: middle;
@@ -24,7 +24,7 @@ vertical-align: middle;
 form fieldset {
 text-align: center;
 margin: 10px auto 10px auto;
-width: 100%;
+width: 90%;
 height: 90%;
 border: solid black 1px;
 padding: 3%;
@@ -38,9 +38,11 @@ display: block;
 text-align: center;
 background-color: #b2b2b2;
 margin-left:33%;
-width:100px;
-border-radius:50px;
-font-size:20px;
+width:150px;
+height: 150px;
+border-radius:75px;
+font-size:30px;
 line-height:100px;
+vertical-align: middle;
 }
 
