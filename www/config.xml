@@ -20,6 +20,18 @@
 #
 -->
 <widget xmlns='http://www.w3.org/ns/widgets'>
+	
+	<name>Cacluladora</name>
+
+    <description>
+        Projeto de TCC
+    </description>
+
+    <author href="http://phonegap.com" email="support@phonegap.com">
+        Igor Renata e Tiago Team
+    </author>
+
+
     <icon src="www/icon.png" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:qualifier="mdpi" />
